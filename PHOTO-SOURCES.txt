@@ -1,0 +1,18 @@
+PHOTO SOURCES · hs-065-nowak T A Nowak Flooring (Wave 14 2026-09-30 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 14 files: see builds/_assets_dl/wave14/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave14/floor-strip-hammer.jpg : Floor being fitted at a doorway, with a hammer and a transition piece; no people (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:9_Irving_A_2014_installing_transition_strip_with_cap.JPG)
+services-trade.jpg <- wave14/floor-entry-new.jpg : Entry with a new floor and a threshold strip (flickr CC0 1.0 https://www.flickr.com/photos/37996646802@N01/3137318642)
+people-crew.jpg <- wave14/floor-living-bright.jpg : Bright living room with a new floor (rawpixel CC0 1.0 https://www.rawpixel.com/image/5922239/photo-image-frame-light-public-domain)
+people-marek.jpg <- wave14/floor-room-finished.jpg : Finished empty room with a new floor (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/140281891@N02/41152768012)
+people-tom.jpg <- wave14/floor-dining-long.jpg : Long kitchen and dining room with a new floor (stocksnap CC0 1.0 https://stocksnap.io/photo/kitchen-interior-3ZX53UFU8B)
+coverage-house.jpg <- wave12/house-two-story-roof.jpg : Two-story suburban home with a newer roof; no people (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/150150080@N04/34824178102)
+floor-hall-bare.jpg <- wave14/floor-hall-bare.jpg : Large empty room down to the bare floor (wikimedia Public domain https://commons.wikimedia.org/wiki/File:23_0067439_Convair_Negative_Image_-_Empty_room_(54158126695).jpg)
+floor-room-yellow.jpg <- wave14/floor-room-yellow.jpg : Empty room with a new floor and yellow walls (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/96511847@N04/9203921144)
+floor-old-worn.jpg <- wave14/floor-old-worn.jpg : Old, worn floor in a living room, close-up (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/57873306@N00/101812957)
+floor-bay-window.jpg <- wave14/floor-bay-window.jpg : Room with bay windows and a new floor (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Ponsonby_House_In_Auckland_New_Zealand_III.jpg)
+
+Note: Flooring set picked to differ from hs-064: no photo on this page is used on hs-064. Services come from the packet trade class only, so no flooring materials are named. First name Thomas from the packet owner line; the unconfirmed short name in the packet notes is not used. The packet's no-DNS nowak names and the unresponsive same-name domain are NOT used or linked; domain ideas avoid those strings.
